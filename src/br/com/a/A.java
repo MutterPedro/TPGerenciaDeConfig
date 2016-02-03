@@ -4,6 +4,10 @@ public class A {
 	private int A1;
 	private float A2;
 	private String A3;
+<<<<<<< HEAD
+=======
+	private String Aramo4;
+>>>>>>> c83ca44b673eddf8b5ace8f498727c2886f380d2
 	private String Aprinc4;
 	
 	public int getA1() {
@@ -28,6 +32,15 @@ public class A {
 	public float soma(){
 		return A1+A2;
 	}
+<<<<<<< HEAD
+=======
+	public String getAramo4() {
+		return Aramo4;
+	}
+	public void setAramo4(String aramo4) {
+		Aramo4 = aramo4;
+	}
+>>>>>>> c83ca44b673eddf8b5ace8f498727c2886f380d2
 	public String getAprinc4() {
 		return Aprinc4;
 	}
